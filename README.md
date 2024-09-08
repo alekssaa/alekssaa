@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aleksandar Ilisić
 - 👀 I’m interested in Frontend Devlopment, React and JavaScript
-- 🌱 I’m currently learning React and JS
+- 🌱 I’m currently learning JS, React, GSAP, Three.js, Tailwind CSS, Bootstrap...  
 - 💞️ I’m looking to collaborate on new projects, to get new experience
 - 📫You can contact me on email ilisic159@gmail.com
 
